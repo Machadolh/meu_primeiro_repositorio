@@ -1,1 +1,2 @@
 Minha primeira linha de codigo
+Git atualmente é muito legal
